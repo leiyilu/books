@@ -580,3 +580,4 @@
 <script src="/static/js/bootstrap.js"></script>
 <script src="/static/js/myCenter.js"></script>
 <script src="/static/js/public.js"></script>
+<script src="/static/js/time.js"></script>
