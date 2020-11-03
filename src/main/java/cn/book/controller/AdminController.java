@@ -32,7 +32,9 @@ public class AdminController {
         return "login";
     }
 
+
     /**
+     * 这是新分支
      * 管理员名称ajax
      *
      * @return
