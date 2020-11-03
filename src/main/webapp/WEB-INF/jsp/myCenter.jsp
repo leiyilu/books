@@ -470,6 +470,7 @@
         </div>
     </div>
 </div>
+
 <%--模态框:借阅图书--%>
 <div id="mymodal2" class="modal fade bs-example-modal-body">
     <div class="modal-dialog modal-body">
@@ -580,3 +581,4 @@
 <script src="/static/js/bootstrap.js"></script>
 <script src="/static/js/myCenter.js"></script>
 <script src="/static/js/public.js"></script>
+<script src="/static/js/time.js"></script>
