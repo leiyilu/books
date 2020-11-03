@@ -470,6 +470,7 @@
         </div>
     </div>
 </div>
+
 <%--模态框:借阅图书--%>
 <div id="mymodal2" class="modal fade bs-example-modal-body">
     <div class="modal-dialog modal-body">
