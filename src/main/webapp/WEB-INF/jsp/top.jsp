@@ -64,6 +64,7 @@
                 <li><a href="/admin/logout.html"><img src="/static/image/top/tc.png" style="margin-right:10px" height="25" width="25"/>退出系统</a></li>
             </ul>
         </div>
+
 <script src="/static/js/jquery-1.12.4.js"></script>
 <script src="/static/js/bootstrap.js"></script>
 <script src="/static/js/time.js"></script>
